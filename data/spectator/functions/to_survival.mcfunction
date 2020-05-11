@@ -1,0 +1,2 @@
+# Change gamemode
+	gamemode survival

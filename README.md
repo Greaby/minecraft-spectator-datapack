@@ -1,4 +1,4 @@
-# Spectator Gamemode
+# Minecraft Spectator Gamemode Datapack
 
 A really simple Minecraft datapack that adds spectator mode for everyone.
 
